@@ -1,0 +1,25 @@
+aesthetically = in which we should give the data type.
+dynamically = in which we doesn't give the data type.
+primitive = data types.
+non primitive = user define.
+buffer =  is a temporary storage area in memory used to hold data.
+const = const can't be change.
+varabile = varabile can be change.
+globle = is declared any were out side the function or code, if don't initial the value it itself assiged the value 0.
+local = is declared in function and code, if don't asing the value it itself assiged the garbage value.
+binary operators = are +, -, /, *.
+unary operators = are a++, a--, ++a, --a.
+pre increment = in which we use fist ++.
+pre drecrement = in wich we use fist --.
+post increment = in which we use later ++.
+post drecrement = in wich we use later --.
+& = bitwise and
+| = bitwise or
+^ = bitwise xor
+~ = bitwise not
+<< = left shift
+>> = right shift
+---logical operator---
+higest precedence = !.
+than              = &&.
+lowest            = ||.
