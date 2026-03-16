@@ -12,7 +12,7 @@ using namespace std;
 
 int main(){
 
-    int sum = 0;
+    int sum = 0;    
 
     int a;
     bool menuList = true;
